@@ -9,7 +9,7 @@ In my implementation I've used this version of ResUnit (version b):
 ![](resunit.jpeg)
 
 In this code I've used Conv layer as 'weight' part of the ResUnit. It could be changed to Fully Connected version, easily. BN = Batch normalization.
-![](batch_norm.png)
+![](batch_norm.PNG)
 The image for Batch Normalization.
 
 ## Install
